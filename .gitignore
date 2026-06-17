@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Flask
+instance/
+.webassets-cache
+
+# Node / React
+node_modules/
+build/
+dist/
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Uploads (don't upload user resumes!)
+backend/uploads/*.pdf
+backend/uploads/*.xlsx
+
+# Keep uploads folder but ignore contents
+!backend/uploads/.gitkeep
+
+# Environment
+.env
+*.env
+
+# Sensitive data
+config.py
+secrets.json

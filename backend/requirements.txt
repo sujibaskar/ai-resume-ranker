@@ -1,0 +1,9 @@
+flask
+flask-cors
+spacy
+scikit-learn
+pdfplumber
+pandas
+openpyxl
+reportlab
+numpy
