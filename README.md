@@ -2,7 +2,7 @@
 
 An intelligent resume ranking system that uses NLP and Machine Learning to rank candidates based on job descriptions.
 ## DEMO
-[Download Video](ResumeRanker\Screenshots\DEMO.mp4)
+(ResumeRanker\Screenshots\DEMO.mp4)
 <img width="959" height="482" alt="Screenshot 2026-06-17 130338" src="https://github.com/user-attachments/assets/30dda7a2-ab1c-4fb8-83cf-153a885583bb" />
 
 ##  Features
