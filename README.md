@@ -1,20 +1,20 @@
-# 🎯 AI-Powered Resume Ranker
+#  AI-Powered Resume Ranker
 
 An intelligent resume ranking system that uses NLP and Machine Learning to rank candidates based on job descriptions.
 
-## 🚀 Features
+##  Features
 
-- 📄 PDF Resume Parsing
-- 🧠 SpaCy NLP Preprocessing
-- 📊 TF-IDF Vectorization
-- 🎯 Smart Skills Matching (150+ skills)
-- 🔗 Implied Skills Detection (BERT → NLP)
-- 📈 Multi-factor Scoring Algorithm
-- 💼 Experience Auto-detection
-- 📑 HR Report Excel Download
-- 🎨 Beautiful React UI
+-  PDF Resume Parsing
+-  SpaCy NLP Preprocessing
+-  TF-IDF Vectorization
+-  Smart Skills Matching (150+ skills)
+-  Implied Skills Detection (BERT → NLP)
+-  Multi-factor Scoring Algorithm
+-  Experience Auto-detection
+-  HR Report Excel Download
+-  Beautiful React UI
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Backend
 - Python 3.x
@@ -29,7 +29,7 @@ An intelligent resume ranking system that uses NLP and Machine Learning to rank 
 - Axios
 - CSS3
 
-## 📦 Installation
+##  Installation
 
 ### Backend Setup
 \```bash
@@ -46,7 +46,7 @@ npm install
 npm start
 \```
 
-## 🎯 Usage
+##  Usage
 
 1. Open browser: `http://localhost:3000`
 2. Enter job title and description
@@ -55,19 +55,19 @@ npm start
 5. View ranked results
 6. Download HR Excel report
 
-## 📊 Scoring Algorithm
+##  Scoring Algorithm
 
 \```
 Final Score = (TF-IDF × 15%) + (Skills × 70%) + (Keywords × 15%)
 
 Grades:
-- 65%+ → Excellent ✅
-- 45%+ → Good 👍
-- 25%+ → Average ⚠️
-- Below → Poor ❌
+- 65%+ → Excellent 
+- 45%+ → Good 
+- 25%+ → Average 
+- Below → Poor 
 \```
 
-## 📁 Project Structure
+##  Project Structure
 
 \```
 ResumeRanker/
@@ -87,12 +87,9 @@ ResumeRanker/
 └── README.md
 \```
 
-## 👩‍💻 Author
+##  Author
 
 **Sujitha B**
 - GitHub: [@sujibaskar](https://github.com/sujibaskar)
-- Email: 127156159@sastra.ac.in
+- Email: bsujitha186@gmail.com
 
-## 📝 License
-
-This project is for educational purposes.
